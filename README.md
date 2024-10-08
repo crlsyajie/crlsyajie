@@ -2,7 +2,7 @@
   <img src="https://img3.wallspic.com/crops/4/8/3/9/6/169384/169384-your_name-mitsuha_miyamizu-anime-taki_tachibana-atmosphere-3840x2160.png" alt="Live banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Carlos Yajie Fetizanan (Yaji)</h1>
+<h1 align="center">Hi 👋, I'm Carlos Yajie Fetizanan (Yajie)</h1>
 <h3 align="center">A passionate frontend developer from the Philippines, trying to become a full-stack developer.</h3>
 
 <p align="center"> 
