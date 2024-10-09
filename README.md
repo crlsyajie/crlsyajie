@@ -10,13 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=crlsyajie&label=Profile%20views&color=0e75b6&style=flat" alt="crlsyajie" />
 </p>
 
----
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crlsyajie&label=Profile%20views&color=0e75b6&style=flat" alt="crlsyajie" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crlsyajie" alt="crlsyajie" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/cyfetizanan" target="blank"><img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=for-the-badge" alt="cyfetizanan" /></a> </p>
----
+
 
 <h2 align="center">Current Focus</h2>
 <h3 align="center">🔭 Currently working on: [Campus Merch Hub](temporary)</h3>
@@ -24,7 +24,7 @@
 <h3 align="center">👯 Collaborating on: QRoom</h3>
 <h3 align="center">🤝 Seeking help with:** AI-Driven Analytics Tool</h3>
 
----
+
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
@@ -36,7 +36,7 @@
 <h3 align="center">👯 Collaborating on: QRoom</h3>
 <h3 align="center">⚡ Fun fact: I am a deep thinker</h3>
 
----
+
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -62,7 +62,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
----
+
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
