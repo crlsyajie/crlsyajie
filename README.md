@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Carlos Yajie Fetizanan (Yajie)</h1>
-<p>Hi! I'm Yaji, a college student and frontend developer from the Philippines with a passion for creating intuitive and engaging user experiences. I'm currently focused on frontend development while trying to become a full-stack developer. I'm always eager to learn new technologies and bring creative solutions to life.</p>
+<p>Hi! I'm Yajie, a college student and frontend developer from the Philippines with a passion for creating intuitive and engaging user experiences. I'm currently focused on frontend development while trying to become a full-stack developer. I'm always eager to learn new technologies and bring creative solutions to life.</p>
 
 
 <p align="center"> 
