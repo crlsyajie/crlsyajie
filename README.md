@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Carlos Yajie Fetizanan (Yajie)</h1>
-<h3 align="center">A passionate frontend developer from the Philippines, trying to become a full-stack developer.</h3>
+<p>Hi! I'm Yaji, a college student and frontend developer from the Philippines with a passion for creating intuitive and engaging user experiences. I'm currently focused on frontend development while trying to become a full-stack developer. I'm always eager to learn new technologies and bring creative solutions to life.</p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=crlsyajie&label=Profile%20views&color=0e75b6&style=flat" alt="crlsyajie" />
