@@ -37,28 +37,6 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ---
 
-## 📌 Pinned Repositories  
-
-<p align="center">
-  <a href="https://github.com/crlsyajie/barakollect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=barakollect&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/crlsyajie/f1-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=f1-predictor&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/crlsyajie/qroom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=qroom&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/crlsyajie/android-shopping-cart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=android-shopping-cart&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 🛠 Tech Stack  
 
 <p align="center">
