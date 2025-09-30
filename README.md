@@ -91,9 +91,6 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
   <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crlsyajie&theme=tokyonight" height="180"/>
@@ -105,13 +102,9 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crlsyajie&theme=tokyonight&utcOffset=8" height="180"/>
 </p>
 
----
-
-<!-- Neon Divider -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon_bar.gif" width="100%" height="10" alt="neon divider" />
-
-</div>
-
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
 
