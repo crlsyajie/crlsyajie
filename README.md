@@ -1,76 +1,104 @@
 <p align="center">
-  <img src="https://img3.wallspic.com/crops/4/8/3/9/6/169384/169384-your_name-mitsuha_miyamizu-anime-taki_tachibana-atmosphere-3840x2160.png" alt="Live banner" width="100%" />
+  <!-- Replace the link below with your own uploaded banner.gif in your repo -->
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="Tokyo Night Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Carlos Yajie Fetizanan (Yajie)</h1>
-<p>Hi! I'm Yajie, a college student and frontend developer from the Philippines with a passion for creating intuitive and engaging user experiences. I'm currently focused on frontend development while trying to become a full-stack developer. I'm always eager to learn new technologies and bring creative solutions to life.</p>
+<h1 align="center">🌙 Konbanwa, I'm Carlos Yajie Fetizanan (Yajie) 👋</h1>
 
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=crlsyajie&label=Profile%20views&color=0e75b6&style=flat" alt="crlsyajie" />
-</p>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crlsyajie&label=Profile%20views&color=0e75b6&style=flat" alt="crlsyajie" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crlsyajie" alt="crlsyajie" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/cyfetizanan" target="blank"><img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=for-the-badge" alt="cyfetizanan" /></a> </p>
-
-
-<h2 align="center">Current Focus</h2>
-<h3 align="center">🔭 Currently working on: Capstone & Formula 1 Prediction Model)</h3>
-<h3 align="center">🌱 Learning: Machine Learning, LLM, Agents</h3>
-<h3 align="center">👯 Collaborating on: Casptone BARAKOLLECT</h3>
-<h3 align="center">🤝 Seeking help with:** AI-Driven Analytics Tool</h3>
-
-
-
-<h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://twitter.com/cyfetizanan" target="blank"><img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=for-the-badge" alt="cyfetizanan" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Future+Full-Stack+Engineer;Machine+Learning+Explorer;Data+Analytics+Student;F1+Fan+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="center">💬 Ask me about anything or just say "HI!"</h3>
-<h3 align="center">📫 Reach me at: cyfetizanan@gmail.com</h3>
-<h3 align="center">👯 Collaborating on: BARAKOLLECT</h3>
-<h3 align="center">⚡ Fun fact: I am a deep thinker</h3>
-
-
-
-<h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <em>
+    College student • Frontend Developer • Machine Learning Enthusiast • Future Full-Stack Dev • Based in the Philippines 🇵🇭
+  </em>
 </p>
 
+---
 
+## 🏮 About Me  
+Hi, I'm **Yajie** — a college student and frontend developer with a strong passion for building intuitive and engaging digital experiences. Currently, I’m on the journey of expanding my skills toward **full-stack development** while exploring **AI, Machine Learning, and Agents**.  
 
-<h2 align="center">GitHub Stats</h2>
+💡 I thrive on bringing creative ideas to life, blending design and logic like the neon streets of Tokyo at night.  
+
+---
+
+## 🚀 Current Projects  
+- 🎓 **Capstone Project:** [BaraKollect](#) – A web platform analyzing Liberica coffee bean morphology with computer vision & analytics.  
+- 🏎 **Formula 1 Prediction Model** – Using FastF1 API, weather data, and XGBoost to predict race winners.  
+- 🤖 **AI-Driven Analytics Tool** – Exploring the integration of LLMs and agents into data workflows.  
+
+---
+
+## 🗂️ Past Projects  
+- 🏫 **QROOM** – A web-based gamified wayfinder room management system for campus facilities.  
+- 🎭 **Prediction Models** – Prediction models consist of college projects.  
+- 🛒 **Shopping Cart App** – Android project with full transaction flow across multiple fragments.  
+
+---
+
+## 🛠 Tech Stack  
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact" alt="crlsyajie" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,figma,java,python,cpp,cs,php,mysql,postgresql,linux,git,bash,blender,ai,ps" />
 </p>
+
+---
+
+## 🌐 Languages  
+- **Intermediate:** C++, C#, Python, HTML, CSS, Figma, Adobe Suite  
+- **Basic:** JavaScript, PHP, SQL, Java  
+- **Fluent:** English & Filipino  
+
+---
+
+## 🏆 Achievements  
+- 🎨 Director of Artist Segment, APEX Publication  
+- ✍️ Editorial Cartoonist  
+- 💻 Completed first JS projects and moving toward full-stack journey  
+- 📊 Exploring Data Science & Business Analytics  
+
+---
+
+## 📜 GitHub Achievements  
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en" alt="crlsyajie" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=crlsyajie&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  </a>
 </p>
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&" alt="crlsyajie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌌 Connect with Me  
+
+<p align="center">
+  <a href="https://twitter.com/cyfetizanan" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter"/>
+  </a>
+  <br/>
+  📫 Reach me at: **cyfetizanan@gmail.com**  
+</p>
+
+---
+
+<p align="center">
+  <em>"Code like the city never sleeps, think like the stars never fade." ✨</em>
 </p>
