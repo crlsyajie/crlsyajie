@@ -9,11 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" /> 
   <em>
     College student • Frontend Developer • Machine Learning Enthusiast • Future Full-Stack Dev • Based in the Philippines 🇵🇭
   </em>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" />
 </p>
 
 ---
@@ -45,10 +43,6 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,figma,java,python,cpp,cs,php,mysql,postgresql,linux,git,bash,blender,ai,ps" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Coding animation" />
-</p>
-
 ---
 
 ## 🏆 Achievements  
@@ -62,6 +56,9 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 - 💻 First JS projects completed → Full-stack journey begins  
 - 📊 Exploring Data Science & Business Analytics  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Coding animation" />
+</p>
 ---
 
 ## 📜 GitHub Achievements  
@@ -82,30 +79,6 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" height="180" />
   <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/crlsyajie/crlsyajie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🧊 Animated Contribution Calendar  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
----
-
-## 🎶 Just for Fun  
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kq7a6ix5ke5uq9p7lud5pg2lcm&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </p>
 
 ---
