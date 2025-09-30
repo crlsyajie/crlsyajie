@@ -97,9 +97,17 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 </p>
 
 <p align="center">
-  <!-- Snake Animation -->
-  <img src="https://github.com/crlsyajie/crlsyajie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- Productivity Graphs -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crlsyajie&theme=tokyonight&utcOffset=8" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=crlsyajie&theme=tokyonight" height="180"/>
 </p>
+
+<p align="center">
+  <!-- Repo Stars & Issues/PRs -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crlsyajie&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crlsyajie&theme=tokyonight" height="180"/>
+</p>
+
 
 ---
 
