@@ -47,18 +47,26 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ## 🏆 Achievements  
 
-- 🎨 Director of Artist Segment – APEX Publication  
-- ✍️ Editorial Cartoonist  
-- 🌐 Chief Creative Officer – TechIS  
-- 🤖 Exploring Agents & ML models  
-- 📜 Completed Google Cybersecurity & UI/UX Courses  
-- ☁️ AWS Cloud Practitioner Certified  
-- 💻 First JS projects completed → Full-stack journey begins  
-- 📊 Exploring Data Science & Business Analytics  
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎨 Director of Artist Segment – APEX Publication</li>
+        <li>✍️ Editorial Cartoonist</li>
+        <li>🌐 Chief Creative Officer – TechIS</li>
+        <li>🤖 Exploring Agents & ML models</li>
+        <li>📜 Completed Google Cybersecurity & UI/UX Courses</li>
+        <li>☁️ AWS Cloud Practitioner Certified</li>
+        <li>💻 First JS projects completed → Full-stack journey begins</li>
+        <li>📊 Exploring Data Science & Business Analytics</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Coding animation" />
-</p>
 ---
 
 ## 📜 GitHub Achievements  
@@ -72,13 +80,25 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 ## 📊 GitHub Dashboard  
 
 <p align="center">
+  <!-- Language & Repo Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=350" height="180" />
   <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
+  <!-- Streak & Contributor Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" height="180" />
   <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Contributions Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</p>
+
+<p align="center">
+  <!-- Snake Animation -->
+  <img src="https://github.com/crlsyajie/crlsyajie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
