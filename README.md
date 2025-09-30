@@ -37,6 +37,27 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ---
 
+## 📌 Pinned Repositories  
+
+<p align="center">
+  <a href="https://github.com/crlsyajie/barakollect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=barakollect&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/crlsyajie/f1-predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=f1-predictor&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/crlsyajie/qroom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=qroom&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/crlsyajie/android-shopping-cart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crlsyajie&repo=android-shopping-cart&theme=tokyonight" />
+  </a>
+</p>
+
+---
 
 ## 🛠 Tech Stack  
 
@@ -93,41 +114,6 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🧊 3D Contribution Calendar  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-night-rainbow.svg" />
-</p>
-
----
-
-## 📈 GitHub Metrics  
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/crlsyajie?template=classic&config.timezone=Asia%2FManila&config.display=large" />
-</p>
-
----
-
-## 🧾 Profile Summary Cards  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crlsyajie&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crlsyajie&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crlsyajie&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crlsyajie&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crlsyajie&theme=tokyonight&utcOffset=8" />
 </p>
 
 ---
