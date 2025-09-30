@@ -19,9 +19,9 @@
 
 
 <h2 align="center">Current Focus</h2>
-<h3 align="center">🔭 Currently working on: [Campus Merch Hub](temporary)</h3>
-<h3 align="center">🌱 Learning: React, Next.js, Vue.js, Python, Tailwind</h3>
-<h3 align="center">👯 Collaborating on: QRoom</h3>
+<h3 align="center">🔭 Currently working on: Capstone & Formula 1 Prediction Model)</h3>
+<h3 align="center">🌱 Learning: Machine Learning, LLM, Agents</h3>
+<h3 align="center">👯 Collaborating on: Casptone BARAKOLLECT</h3>
 <h3 align="center">🤝 Seeking help with:** AI-Driven Analytics Tool</h3>
 
 
@@ -33,7 +33,7 @@
 
 <h3 align="center">💬 Ask me about anything or just say "HI!"</h3>
 <h3 align="center">📫 Reach me at: cyfetizanan@gmail.com</h3>
-<h3 align="center">👯 Collaborating on: QRoom</h3>
+<h3 align="center">👯 Collaborating on: BARAKOLLECT</h3>
 <h3 align="center">⚡ Fun fact: I am a deep thinker</h3>
 
 
