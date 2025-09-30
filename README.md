@@ -82,29 +82,30 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" height="200" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=350" height="180" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
-</p>
-
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crlsyajie&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crlsyajie&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=350" height="200" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="200"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crlsyajie&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crlsyajie&theme=tokyonight&utcOffset=8" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crlsyajie&theme=tokyonight" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crlsyajie&theme=tokyonight" height="200"/>
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crlsyajie&theme=tokyonight" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crlsyajie&theme=tokyonight&utcOffset=8" height="200"/>
 </p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="95%" height="300"/>
+</p>
+
+</div>
 
 ---
 
