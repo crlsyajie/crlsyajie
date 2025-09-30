@@ -81,30 +81,20 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 <div align="center">
 
-### 🔹 Overview
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" height="180" />
 </p>
 
----
-
-### 🔹 Languages & Contributions
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=350" height="180" />
   <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
 </p>
 
----
-
-### 🔹 Activity & Graphs
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
----
-
-### 🔹 Extra Insights
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crlsyajie&theme=tokyonight" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crlsyajie&theme=tokyonight" height="180"/>
@@ -117,10 +107,8 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ---
 
-### 🐍 Contribution Snake
-<p>
-  <img src="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/neon_bar.gif" width="100%" height="10" alt="neon divider" />
 
 </div>
 
