@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="Tokyo Night Banner" width="100%" />
 </p>
 
-<h1 align="center">🌙 Konbanwa, I'm Carlos Yajie Fetizanan (Yajie) 👋</h1>
+<h1 align="center">🌙 Konbanwa, I'm Carlos Yajie Fetizanan (Yajie) </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&random=false&width=650&lines=Frontend+Developer;Future+Full-Stack+Engineer;Machine+Learning+Explorer;Data+Analytics+Student;F1+Fan+%26+Tech+Enthusiast;Cyberpunk+Code+Dreamer" alt="Typing SVG" />
