@@ -96,22 +96,6 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ---
 
-## 🧊 Contribution Calendar  
-
-<p align="center">
-  <!-- Flip-style contribution calendar -->
-  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/assets/flip-calendar.gif" alt="Flip Calendar" width="600"/>
-</p>
-
----
-
-## 🐍 Snake Contribution Animation  
-
-<p align="center">
-  <img src="https://github.com/crlsyajie/crlsyajie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 📈 GitHub Metrics  
 
