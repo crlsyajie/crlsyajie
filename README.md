@@ -1,17 +1,17 @@
 <p align="center">
-  <!-- Replace the link below with your own uploaded banner.gif in your repo -->
+  <!-- Custom Animated Banner -->
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="Tokyo Night Banner" width="100%" />
 </p>
 
 <h1 align="center">🌙 Konbanwa, I'm Carlos Yajie Fetizanan (Yajie) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Future+Full-Stack+Engineer;Machine+Learning+Explorer;Data+Analytics+Student;F1+Fan+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&random=false&width=650&lines=Frontend+Developer;Future+Full-Stack+Engineer;Machine+Learning+Explorer;Data+Analytics+Student;F1+Fan+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <em>
-    College student • Frontend Developer • Machine Learning Enthusiast • Future Full-Stack Dev • Based in the Philippines 🇵🇭
+    College student • Frontend Developer • ML Explorer • Future Full-Stack Dev • Based in the Philippines 🇵🇭
   </em>
 </p>
 
@@ -32,16 +32,16 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 ---
 
 ## 🗂️ Past Projects  
-- 🏫 **QROOM** – A web-based gamified wayfinder room management system for campus facilities.  
-- 🎭 **Prediction Models** – Prediction models consist of college projects.  
-- 🛒 **Shopping Cart App** – Android project with full transaction flow across multiple fragments.  
+- 🏫 **QROOM** – A web-based gamified wayfinder + room management system.  
+- 🎭 **Prediction Models** – Collection of ML-based college projects.  
+- 🛒 **Shopping Cart App** – Android app with a full transaction flow across fragments.  
 
 ---
 
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,figma,java,python,cpp,cs,php,mysql,postgresql,linux,git,bash,blender,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,figma,java,python,cpp,cs,php,mysql,postgresql,linux,git,bash,blender,ai,ps&perline=10" />
 </p>
 
 ---
@@ -54,9 +54,13 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 ---
 
 ## 🏆 Achievements  
-- 🎨 Director of Artist Segment, APEX Publication  
+- 🎨 Director of Artist Segment – APEX Publication  
 - ✍️ Editorial Cartoonist  
-- 💻 Completed first JS projects and moving toward full-stack journey  
+- 🎭 Chief Creative Officer – TechIS  
+- 🤖 Exploring **Agents** and **Machine Learning** models  
+- 📜 Completed **Google Cybersecurity** & **UI/UX Courses**  
+- ☁️ Certified **AWS Cloud Practitioner**  
+- 💻 First JS projects completed → Full-stack journey begins  
 - 📊 Exploring Data Science & Business Analytics  
 
 ---
@@ -65,13 +69,13 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=crlsyajie&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=crlsyajie&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Auto-updating)  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -85,6 +89,18 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
 ## 🌌 Connect with Me  
@@ -93,7 +109,15 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
   <a href="https://twitter.com/cyfetizanan" target="_blank">
     <img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter"/>
   </a>
-  <br/>
+  <a href="https://facebook.com/CarlosYFetizanan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/crls_brook" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
   📫 Reach me at: **cyfetizanan@gmail.com**  
 </p>
 
