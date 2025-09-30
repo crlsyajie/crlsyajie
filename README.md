@@ -5,13 +5,15 @@
 <h1 align="center">🌙 Konbanwa, I'm Carlos Yajie Fetizanan (Yajie) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Future+Full-Stack+Engineer;Machine+Learning+Explorer;Data+Analytics+Student;F1+Fan+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&random=false&width=650&lines=Frontend+Developer;Future+Full-Stack+Engineer;Machine+Learning+Explorer;Data+Analytics+Student;F1+Fan+%26+Tech+Enthusiast;Cyberpunk+Code+Dreamer" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" /> 
   <em>
     College student • Frontend Developer • Machine Learning Enthusiast • Future Full-Stack Dev • Based in the Philippines 🇵🇭
   </em>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" />
 </p>
 
 ---
@@ -37,22 +39,20 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ---
 
-## 🛠 Tech Stack  
+## ⚡ Animated Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,figma,java,python,cpp,cs,php,mysql,postgresql,linux,git,bash,blender,ai,ps" />
 </p>
 
----
-
-## 🌐 Languages  
-- **Intermediate:** C++, C#, Python, HTML, CSS, Figma, Adobe Suite  
-- **Basic:** JavaScript, PHP, SQL, Java  
-- **Fluent:** English & Filipino  
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Coding animation" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
+
 - 🎨 Director of Artist Segment – APEX Publication  
 - ✍️ Editorial Cartoonist  
 - 🌐 Chief Creative Officer – TechIS  
@@ -67,9 +67,7 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 ## 📜 GitHub Achievements  
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=crlsyajie&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=crlsyajie&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -88,20 +86,29 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ---
 
-## 🔥 Contribution Activity  
+## 🔥 Contribution Snake  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github.com/crlsyajie/crlsyajie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-
-## 📈 GitHub Metrics  
+## 🧊 Animated Contribution Calendar  
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/crlsyajie?template=classic&config.timezone=Asia%2FManila" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
+---
+
+## 🎶 Just for Fun  
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kq7a6ix5ke5uq9p7lud5pg2lcm&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+</p>
+
+---
 
 ## 🌌 Connect with Me  
 
@@ -122,6 +129,10 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+</p>
 
 <p align="center">
   <em>"Code like the city never sleeps, think like the stars never fade." ✨</em>
