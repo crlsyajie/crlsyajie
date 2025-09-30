@@ -79,34 +79,50 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 
 ## 📊 GitHub Dashboard  
 
-<p align="center">
-  <!-- Language & Repo Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=350" height="180" />
+<div align="center">
+
+### 🔹 Overview
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" height="180" />
 </p>
 
-<p align="center">
-  <!-- Streak & Contributor Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight" height="180" />
+---
+
+### 🔹 Languages & Contributions
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=350" height="180" />
   <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
 </p>
 
-<p align="center">
-  <!-- Contributions Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+---
+
+### 🔹 Activity & Graphs
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
-<p align="center">
-  <!-- Productivity Graphs -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crlsyajie&theme=tokyonight&utcOffset=8" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=crlsyajie&theme=tokyonight" height="180"/>
-</p>
+---
 
-<p align="center">
-  <!-- Repo Stars & Issues/PRs -->
+### 🔹 Extra Insights
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crlsyajie&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crlsyajie&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crlsyajie&theme=tokyonight" height="180"/>
 </p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crlsyajie&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crlsyajie&theme=tokyonight&utcOffset=8" height="180"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p>
+  <img src="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+</div>
 
 
 ---
