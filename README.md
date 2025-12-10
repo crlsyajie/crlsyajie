@@ -24,7 +24,7 @@ Hi, I'm **Yajie** — a college student and frontend developer with a strong pas
 ---
 
 ## 🚀 Current Projects  
-- 🎓 **Capstone Project:** [BaraKollect](#) – A web platform analyzing Liberica coffee bean morphology with computer vision & analytics.  
+- 🎓 **Capstone Project:** [https://www.barakollect.com/](#) – A web platform analyzing Liberica coffee bean morphology with computer vision & analytics.  
 - 🏎 **Formula 1 Prediction Model** – Using FastF1 API, weather data, and XGBoost to predict race winners.  
 - 🤖 **AI-Driven Analytics Tool** – Exploring the integration of LLMs and agents into data workflows.  
 
