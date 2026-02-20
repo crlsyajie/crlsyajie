@@ -55,17 +55,23 @@
     <td width="70%" valign="top">
       <!-- Right Column: Content -->
       
-      ### 🏮 Who am I?
+      <h3>🏮 Who am I?</h3>
 
-      > *"Code like the city never sleeps, think like the stars never fade."* ✨
+      <blockquote>
+        <i>"Code like the city never sleeps, think like the stars never fade."</i> ✨
+      </blockquote>
       
-      I'm **Carlos Yajie Fetizanan**, a developer who sees code as a canvas. My passion lies in crafting **intuitive frontend experiences** and exploring the potential of **AI & Machine Learning**.
+      <p>
+      I'm <b>Carlos Yajie Fetizanan</b>, a developer who sees code as a canvas. My passion lies in crafting <b>intuitive frontend experiences</b> and exploring the potential of <b>AI & Machine Learning</b>.
+      </p>
       
-      I'm currently leveling up my skills to become a **Full-Stack Engineer**, merging design with robust backend logic.
+      <p>
+      I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merging design with robust backend logic.
+      </p>
 
-      ---
+      <hr/>
 
-      ### ⚡ Tech Arsenal
+      <h3>⚡ Tech Arsenal</h3>
       
       <table>
         <tr>
@@ -86,22 +92,26 @@
         </tr>
       </table>
 
-      ---
+      <hr/>
       
-      ### 🚀 Currently Building
+      <h3>🚀 Currently Building</h3>
 
-      - ☕ **[Barakollect](https://www.barakollect.com/)**: Analyzing *Liberica* coffee beans using Computer Vision.
-      - 🏎️ **F1 Predictor**: Using XGBoost & FastF1 API to forecast race outcomes.
-      - 🤖 **AI Analytics**: Integrating LLMs into data workflows.
+      <ul>
+        <li>☕ <b><a href="https://www.barakollect.com/">Barakollect</a></b>: Analyzing <i>Liberica</i> coffee beans using Computer Vision.</li>
+        <li>🏎️ <b>F1 Predictor</b>: Using XGBoost & FastF1 API to forecast race outcomes.</li>
+        <li>🤖 <b>AI Analytics</b>: Integrating LLMs into data workflows.</li>
+      </ul>
 
-      ---
+      <hr/>
       
-      ### 🏆 Key Achievements
+      <h3>🏆 Key Achievements</h3>
       
-      - 🎨 **Director of Artist Segment** @ APEX Publication
-      - 🌐 **Chief Creative Officer** @ TechIS
-      - ☁️ **AWS Certified Cloud Practitioner**
-      - 🛡️ **Google Cybersecurity Professional**
+      <ul>
+        <li>🎨 <b>Director of Artist Segment</b> @ APEX Publication</li>
+        <li>🌐 <b>Chief Creative Officer</b> @ TechIS</li>
+        <li>☁️ <b>AWS Certified Cloud Practitioner</b></li>
+        <li>🛡️ <b>Google Cybersecurity Professional</b></li>
+      </ul>
 
     </td>
   </tr>
