@@ -62,7 +62,7 @@ I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merg
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,postgresql" height="30" /></td>
+<td><img src="https://skillicons.dev/icons?i=django,mysql,postgresql" height="30" /></td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
@@ -82,7 +82,8 @@ I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merg
 <li>🎨 <b>Director of Artist Segment</b> @ APEX Publication</li>
 <li>🌐 <b>Chief Creative Officer</b> @ TechIS</li>
 <li>☁️ <b>AWS Certified Cloud Practitioner</b></li>
-<li>🛡️ <b>Google Cybersecurity Professional</b></li>
+<li>🛡️ <b>Google Cybersecurity Professional</b> (Coursera)</li>
+<li>🎨 <b>Google UX Design Professional</b> (Coursera)</li>
 </ul>
     </td>
   </tr>
