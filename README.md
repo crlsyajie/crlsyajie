@@ -8,7 +8,6 @@
 </h1>
 
 <div align="center">
-  <!-- Typing SVG - Centered on top -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Future+Full-Stack;Cyberpunk+Code+Dreamer+%7C+AI+Explorer;Building+Digital+Experiences+with+Heart;Based+in+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
   </a>
@@ -19,100 +18,72 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="top">
-      <!-- Left Column: Profile Card -->
-      <br/>
-      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Coding animation" style="border-radius: 10px;" />
-      <br/><br/>
-      
-      <!-- Connect Buttons -->
-      <p>
-        <a href="https://twitter.com/cyfetizanan" target="_blank">
-          <img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=flat-square&color=1DA1F2&labelColor=15202b&label=Follow" alt="Twitter" />
-        </a>
-        <br/>
-        <a href="https://facebook.com/CarlosYFetizanan" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-        </a>
-        <br/>
-        <a href="https://instagram.com/crls_brook" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-        <br/>
-        <a href="mailto:cyfetizanan@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </p>
-
-      <br/>
-      <b>📍 Location</b><br/>
-      Philippines 🇵🇭
-      <br/><br/>
-      <b>🎓 Education</b><br/>
-      College Student<br/>
-      <i>Focus: Data Analytics & ML</i>
-
+<br/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="280" alt="Coding animation" style="border-radius: 10px;" />
+<br/><br/>
+<p>
+<a href="https://twitter.com/cyfetizanan" target="_blank"><img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=flat-square&color=1DA1F2&labelColor=15202b&label=Follow" alt="Twitter" /></a>
+<br/>
+<a href="https://facebook.com/CarlosYFetizanan" target="_blank"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<br/>
+<a href="https://instagram.com/crls_brook" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<br/>
+<a href="mailto:cyfetizanan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<br/>
+<b>📍 Location</b><br/>
+Philippines 🇵🇭
+<br/><br/>
+<b>🎓 Education</b><br/>
+College Student<br/>
+<i>Focus: Data Analytics & ML</i>
     </td>
     <td width="70%" valign="top">
-      <!-- Right Column: Content -->
-      
-      <h3>🏮 Who am I?</h3>
-
-      <blockquote>
-        <i>"Code like the city never sleeps, think like the stars never fade."</i> ✨
-      </blockquote>
-      
-      <p>
-      I'm <b>Carlos Yajie Fetizanan</b>, a developer who sees code as a canvas. My passion lies in crafting <b>intuitive frontend experiences</b> and exploring the potential of <b>AI & Machine Learning</b>.
-      </p>
-      
-      <p>
-      I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merging design with robust backend logic.
-      </p>
-
-      <hr/>
-
-      <h3>⚡ Tech Arsenal</h3>
-      
-      <table>
-        <tr>
-          <td align="center"><b>Languages</b></td>
-          <td><img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,php" height="30" /></td>
-        </tr>
-        <tr>
-          <td align="center"><b>Frontend</b></td>
-          <td><img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap" height="30" /></td>
-        </tr>
-        <tr>
-          <td align="center"><b>Backend</b></td>
-          <td><img src="https://skillicons.dev/icons?i=mysql,postgresql" height="30" /></td>
-        </tr>
-        <tr>
-          <td align="center"><b>Tools</b></td>
-          <td><img src="https://skillicons.dev/icons?i=git,bash,aws,linux,figma,blender,ai,ps" height="30" /></td>
-        </tr>
-      </table>
-
-      <hr/>
-      
-      <h3>🚀 Currently Building</h3>
-
-      <ul>
-        <li>☕ <b><a href="https://www.barakollect.com/">Barakollect</a></b>: Analyzing <i>Liberica</i> coffee beans using Computer Vision.</li>
-        <li>🏎️ <b>F1 Predictor</b>: Using XGBoost & FastF1 API to forecast race outcomes.</li>
-        <li>🤖 <b>AI Analytics</b>: Integrating LLMs into data workflows.</li>
-      </ul>
-
-      <hr/>
-      
-      <h3>🏆 Key Achievements</h3>
-      
-      <ul>
-        <li>🎨 <b>Director of Artist Segment</b> @ APEX Publication</li>
-        <li>🌐 <b>Chief Creative Officer</b> @ TechIS</li>
-        <li>☁️ <b>AWS Certified Cloud Practitioner</b></li>
-        <li>🛡️ <b>Google Cybersecurity Professional</b></li>
-      </ul>
-
+<h3>🏮 Who am I?</h3>
+<blockquote>
+<i>"Code like the city never sleeps, think like the stars never fade."</i> ✨
+</blockquote>
+<p>
+I'm <b>Carlos Yajie Fetizanan</b>, a developer who sees code as a canvas. My passion lies in crafting <b>intuitive frontend experiences</b> and exploring the potential of <b>AI & Machine Learning</b>.
+</p>
+<p>
+I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merging design with robust backend logic.
+</p>
+<hr/>
+<h3>⚡ Tech Arsenal</h3>
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,php" height="30" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap" height="30" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgresql" height="30" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,bash,aws,linux,figma,blender,ai,ps" height="30" /></td>
+</tr>
+</table>
+<hr/>
+<h3>🚀 Currently Building</h3>
+<ul>
+<li>☕ <b><a href="https://www.barakollect.com/">Barakollect</a></b>: Analyzing <i>Liberica</i> coffee beans using Computer Vision.</li>
+<li>🏎️ <b>F1 Predictor</b>: Using XGBoost & FastF1 API to forecast race outcomes.</li>
+<li>🤖 <b>AI Analytics</b>: Integrating LLMs into data workflows.</li>
+</ul>
+<hr/>
+<h3>🏆 Key Achievements</h3>
+<ul>
+<li>🎨 <b>Director of Artist Segment</b> @ APEX Publication</li>
+<li>🌐 <b>Chief Creative Officer</b> @ TechIS</li>
+<li>☁️ <b>AWS Certified Cloud Practitioner</b></li>
+<li>🛡️ <b>Google Cybersecurity Professional</b></li>
+</ul>
     </td>
   </tr>
 </table>
