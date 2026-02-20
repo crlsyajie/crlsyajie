@@ -1,113 +1,130 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="Tokyo Night Banner" width="100%" />
-
-  <h1 align="center">Konbanwa, I'm Carlos Yajie Fetizanan (Yajie) 🌙</h1>
-  
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&random=false&width=650&lines=Frontend+Developer;Future+Full-Stack+Engineer;Machine+Learning+Explorer;Data+Analytics+Student;F1+Fan+%26+Tech+Enthusiast;Cyberpunk+Code+Dreamer" alt="Typing SVG" /></a>
-  </p>
-
-  <p align="center">
-    <b>College Student • Frontend Developer • Machine Learning Enthusiast • Future Full-Stack Dev</b><br/>
-    Based in the Philippines 🇵🇭
-  </p>
-
-  <p align="center">
-    <a href="https://twitter.com/cyfetizanan" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=15202b" alt="Twitter" />
-    </a>
-    <a href="https://facebook.com/CarlosYFetizanan" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://instagram.com/crls_brook" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:cyfetizanan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
 </div>
 
----
-
-### 🏮 About Me
-
-> *"Code like the city never sleeps, think like the stars never fade." ✨*
-
-Hi, I'm **Yajie** — a passionate developer blending creativity with technical precision. I specialize in building intuitive and engaging **digital experiences** on the web. My journey began with frontend development, and I am actively expanding my expertise into **Full-Stack Engineering**, **Machine Learning**, and **AI Agents**.
-
-I thrive on turning complex ideas into elegant solutions, inspired by the vibrant energy of technology and design.
-
----
-
-### ⚡ Tech Stack
-
-Here are the technologies I work with:
-
-| **Category** | **Skills** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,php,js" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=mysql,postgresql" /> |
-| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=linux,git,bash,aws,ai" /> |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma,blender,ps" /> |
-
----
-
-### 🚀 Projects
-
-#### Current Focus
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Barakollect](https://www.barakollect.com/)** | A web platform analyzing Liberica coffee bean morphology with computer vision & analytics. | `Computer Vision` `Analytics` |
-| **Formula 1 Prediction Model** | Using FastF1 API, weather data, and XGBoost to predict race winners. | `FastF1 API` `XGBoost` `Python` |
-| **AI-Driven Analytics Tool** | Exploring the integration of LLMs and agents into data workflows. | `LLMs` `Agents` `AI` |
-
-#### Past Work
-| Project | Description |
-| :--- | :--- |
-| **QROOM** | A web-based gamified wayfinder room management system. |
-| **Prediction Models** | Various ML-based college projects. |
-| **Shopping Cart App** | Android app with a full transaction flow across multiple fragments. |
-
----
-
-### 🏆 Achievements & Roles
-
-- 🎨 **Director of Artist Segment** – APEX Publication
-- ✍️ **Editorial Cartoonist**
-- 🌐 **Chief Creative Officer** – TechIS
-- 📜 **Certifications**: Google Cybersecurity, Google UI/UX, AWS Cloud Practitioner
-- 🤖 **Current Exploration**: AI Agents & ML Models
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Konbanwa, I'm Yajie!
+</h1>
 
 <div align="center">
+  <!-- Typing SVG - Centered on top -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Future+Full-Stack;Cyberpunk+Code+Dreamer+%7C+AI+Explorer;Building+Digital+Experiences+with+Heart;Based+in+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
+  </a>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight&hide_border=true&background=00000000" height="160" />
+<br/>
 
-  <br/><br/>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <!-- Left Column: Profile Card -->
+      <br/>
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Coding animation" style="border-radius: 10px;" />
+      <br/><br/>
+      
+      <!-- Connect Buttons -->
+      <p>
+        <a href="https://twitter.com/cyfetizanan" target="_blank">
+          <img src="https://img.shields.io/twitter/follow/cyfetizanan?logo=twitter&style=flat-square&color=1DA1F2&labelColor=15202b&label=Follow" alt="Twitter" />
+        </a>
+        <br/>
+        <a href="https://facebook.com/CarlosYFetizanan" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+        </a>
+        <br/>
+        <a href="https://instagram.com/crls_brook" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+        <br/>
+        <a href="mailto:cyfetizanan@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=320" height="160" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=crlsyajie&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&background=00000000" height="160" />
+      <br/>
+      <b>📍 Location</b><br/>
+      Philippines 🇵🇭
+      <br/><br/>
+      <b>🎓 Education</b><br/>
+      College Student<br/>
+      <i>Focus: Data Analytics & ML</i>
 
-  <br/><br/>
+    </td>
+    <td width="70%" valign="top">
+      <!-- Right Column: Content -->
+      
+      ### 🏮 Who am I?
+
+      > *"Code like the city never sleeps, think like the stars never fade."* ✨
+      
+      I'm **Carlos Yajie Fetizanan**, a developer who sees code as a canvas. My passion lies in crafting **intuitive frontend experiences** and exploring the potential of **AI & Machine Learning**.
+      
+      I'm currently leveling up my skills to become a **Full-Stack Engineer**, merging design with robust backend logic.
+
+      ---
+
+      ### ⚡ Tech Arsenal
+      
+      <table>
+        <tr>
+          <td align="center"><b>Languages</b></td>
+          <td><img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,php" height="30" /></td>
+        </tr>
+        <tr>
+          <td align="center"><b>Frontend</b></td>
+          <td><img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap" height="30" /></td>
+        </tr>
+        <tr>
+          <td align="center"><b>Backend</b></td>
+          <td><img src="https://skillicons.dev/icons?i=mysql,postgresql" height="30" /></td>
+        </tr>
+        <tr>
+          <td align="center"><b>Tools</b></td>
+          <td><img src="https://skillicons.dev/icons?i=git,bash,aws,linux,figma,blender,ai,ps" height="30" /></td>
+        </tr>
+      </table>
+
+      ---
+      
+      ### 🚀 Currently Building
+
+      - ☕ **[Barakollect](https://www.barakollect.com/)**: Analyzing *Liberica* coffee beans using Computer Vision.
+      - 🏎️ **F1 Predictor**: Using XGBoost & FastF1 API to forecast race outcomes.
+      - 🤖 **AI Analytics**: Integrating LLMs into data workflows.
+
+      ---
+      
+      ### 🏆 Key Achievements
+      
+      - 🎨 **Director of Artist Segment** @ APEX Publication
+      - 🌐 **Chief Creative Officer** @ TechIS
+      - ☁️ **AWS Certified Cloud Practitioner**
+      - 🛡️ **Google Cybersecurity Professional**
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Stats Section: Full Width Strip -->
+<div align="center">
+  <h3>📊 GitHub Activity</h3>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crlsyajie&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="Top Langs" />
+  </p>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crlsyajie&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="City Gif" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
-</p>
