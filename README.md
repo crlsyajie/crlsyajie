@@ -127,7 +127,11 @@ I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merg
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/github-snake.svg">
+  </picture>
 </div>
 
 <br/>
