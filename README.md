@@ -72,7 +72,7 @@ I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merg
 <hr/>
 <h3>🚀 Currently Building</h3>
 <ul>
-<li>☕ <b><a href="https://www.barakollect.com/">Barakollect</a></b>: Analyzing <i>Liberica</i> coffee beans using Computer Vision.</li>
+<li>☕ <b><a href="https://github.com/crlsyajie/barakollect">Barakollect</a></b>: Analyzing <i>Liberica</i> coffee beans using Computer Vision.</li>
 <li>🏎️ <b>F1 Predictor</b>: Using XGBoost & FastF1 API to forecast race outcomes.</li>
 <li>🤖 <b>AI Analytics</b>: Integrating LLMs into data workflows.</li>
 </ul>
@@ -103,6 +103,31 @@ I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merg
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crlsyajie&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><a href="https://github.com/crlsyajie/barakollect"><b>☕ Barakollect</b><br/>Computer Vision for Coffee Beans</a></td>
+<td align="center"><a href="https://github.com/crlsyajie/CoffeeFarmClassification_CNN"><b>🌱 CoffeeFarm Classification</b><br/>CNN-based analysis</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/crlsyajie/Machine-Learning-Models"><b>🤖 ML Models</b><br/>Trained on Google Colab</a></td>
+<td align="center"><a href="https://github.com/crlsyajie/Cy-My-Portfolio"><b>💻 My Portfolio</b><br/>Personal showcase website</a></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
