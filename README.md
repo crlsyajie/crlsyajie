@@ -75,6 +75,7 @@ I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merg
 <li>☕ <b><a href="https://github.com/crlsyajie/barakollect">Barakollect</a></b>: Analyzing <i>Liberica</i> coffee beans using Computer Vision.</li>
 <li>🏎️ <b>F1 Predictor</b>: Using XGBoost & FastF1 API to forecast race outcomes.</li>
 <li>🤖 <b>AI Analytics</b>: Integrating LLMs into data workflows.</li>
+<li>💻 <b><a href="https://crlsyajie.github.io/Cy-My-Portfolio/">My Portfolio</a></b>: Personal showcase website.</li>
 </ul>
 <hr/>
 <h3>🏆 Key Achievements</h3>
@@ -117,7 +118,7 @@ I'm currently leveling up my skills to become a <b>Full-Stack Engineer</b>, merg
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/crlsyajie/Machine-Learning-Models"><b>🤖 ML Models</b><br/>Trained on Google Colab</a></td>
-<td align="center"><a href="https://github.com/crlsyajie/Cy-My-Portfolio"><b>💻 My Portfolio</b><br/>Personal showcase website</a></td>
+<td align="center"><a href="https://crlsyajie.github.io/Cy-My-Portfolio/"><b>💻 My Portfolio</b><br/>Personal showcase website</a></td>
 </tr>
 </table>
 </div>
