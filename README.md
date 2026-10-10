@@ -53,15 +53,7 @@ I'm currently an **AI Creative Ops Prompt Engineer at Tuncarp** in Bonifacio Glo
 
 <br/><br/>
 
-<img src="assets/section-06.svg" width="100%" alt="06 — Metrics" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crlsyajie&show_icons=true&count_private=true&rank_icon=github&bg_color=0B0B0C&title_color=C9A86A&text_color=D6D2C8&icon_color=C9A86A&ring_color=C9A86A&border_color=232326&border_radius=10" height="175" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crlsyajie&layout=compact&langs_count=8&hide=jupyter%20notebook&bg_color=0B0B0C&title_color=C9A86A&text_color=D6D2C8&border_color=232326&border_radius=10" height="175" alt="Most used languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=crlsyajie&background=0B0B0C&border=232326&stroke=232326&ring=C9A86A&fire=C9A86A&currStreakNum=EDE6D6&sideNums=EDE6D6&currStreakLabel=C9A86A&sideLabels=9C9A94&dates=5E5C58&border_radius=10" height="175" alt="Contribution streak" />
-</p>
+<img src="https://raw.githubusercontent.com/crlsyajie/crlsyajie/output/metrics.svg" width="100%" alt="06 — Metrics: contributions, streaks, commits, pull requests, repositories, stars, followers, weekly activity, languages and weekday rhythm, refreshed twice daily" />
 
 <p align="center">
   <picture>

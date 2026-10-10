@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -25,6 +25,11 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#8A6D3B&color_dots=#EBEDF0,#E9DCC0,#D4BC8A,#B8975A,#8A6D3B
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#C9A86A&color_dots=#161B22,#3B3222,#6B5A3A,#9C8350,#C9A86A
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate metrics panel
+        run: python3 scripts/metrics.py dist/metrics.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
