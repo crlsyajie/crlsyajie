@@ -10,6 +10,10 @@
   <a href="https://instagram.com/crls_brook"><img src="https://img.shields.io/badge/Instagram-0B0B0C?style=for-the-badge&logo=instagram&logoColor=C9A86A" alt="Instagram" /></a>
 </p>
 
+<p align="center">
+  <img src="https://hits.sh/github.com/crlsyajie.svg?extraCount=313&style=for-the-badge&label=Profile%20Views&color=0B0B0C&labelColor=0B0B0C&logo=github&logoColor=C9A86A" alt="Profile views" />
+</p>
+
 <br/>
 
 <img src="assets/section-01.svg" width="100%" alt="01 — About" />
