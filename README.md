@@ -31,6 +31,10 @@ I'm currently an **AI Creative Ops Prompt Engineer at Tuncarp** in Bonifacio Glo
 <img src="assets/section-03.svg" width="100%" alt="03 — Selected Work" />
 
 <p align="center">
+  <a href="https://crlsyajie.github.io/CYF-Moonbase/"><img src="assets/featured.svg" width="100%" alt="Featured, live: CYF Moonbase — a live view of my dev work as a lunar base, where every GitHub push and Claude Code run sends a cargo crate between stations" /></a>
+</p>
+
+<p align="center">
   <a href="https://crlsyajie.github.io/F1-Forecast-Sim/"><img src="assets/project-01.svg" width="49%" alt="F1 Forecast Simulator — XGBoost race forecasts replayed on real circuit maps" /></a>
   <a href="https://barakollect.vercel.app/"><img src="assets/project-02.svg" width="49%" alt="BaraKollect — capstone computer vision for Liberica coffee bean morphology" /></a>
 </p>
