@@ -43,8 +43,8 @@ I'm currently an **AI Creative Ops Prompt Engineer at Tuncarp** in Bonifacio Glo
   <a href="https://github.com/crlsyajie/CoffeeFarmClassification_CNN"><img src="assets/project-04.svg" width="49%" alt="Coffee Farm Classification — CNN that classifies coffee farm images" /></a>
 </p>
 <p align="center">
-  <a href="https://crlsyajie.github.io/tcc/"><img src="assets/project-05.svg" width="49%" alt="The Campus Chronicles — landing page for a pixel-art school map adventure" /></a>
-  <a href="https://github.com/crlsyajie/eventms"><img src="assets/project-06.svg" width="49%" alt="Event Management System — event management web app with full system design" /></a>
+  <a href="https://github.com/crlsyajie/Ops-Autopilot"><img src="assets/project-05.svg" width="49%" alt="Ops Autopilot — AI operations agent that reads invoices, receipts and orders, checks them with rules and routes exceptions to a person" /></a>
+  <a href="https://github.com/crlsyajie/daimon"><img src="assets/project-06.svg" width="49%" alt="Daimon — realism QA for AI photos and video, with a Claude-powered director panel that marks every flaw with a fix prompt" /></a>
 </p>
 
 <br/>
